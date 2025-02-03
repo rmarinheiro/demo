@@ -12,3 +12,5 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
+
+INSERT INTO tb_course(name,img_uri,img_Gray_Uri) VALUES('Bootcamp Java','https://cdn.awsli.com.br/1225/1225697/produto/47028839/caneca-linguagem-java-d090b659.jpg','https://cdn.iconscout.com/icon/free/png-256/free-java-file-icon-download-in-svg-png-gif-formats--logo-program-programming-extension-vol-1-pack-files-folders-icons-775447.png');
